@@ -1,4 +1,4 @@
-package calculation;
+package calculation.operator;
 
 public class Multiplication extends Operation{
 
